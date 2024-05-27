@@ -19,24 +19,10 @@ Este proyecto tiene como objetivo proporcionar una práctica paso a paso para co
 
 ### 2. Elección de Roles
 
-- Cada alumno debe elegir si desea ser el servidor o el cliente.
-- Una vez que hayan elegido, deben buscar un compañero de trabajo que haya elegido el rol opuesto.
+- Cada uno debe elegir si desea ser el servidor o el cliente.
+- Una vez que hayan elegido, deben cambiar el cliente la direccion IP del servidor
 
-### 3. Implementación del Servidor o Cliente
-
-#### Servidor:
-
-- Conéctate a tu instancia EC2 utilizando SSH.
-- Crea un nuevo archivo Python llamado `server.py`.
-- Implementa el servidor en `server.py` según tus necesidades.
-
-#### Cliente:
-
-- Conéctate a tu instancia EC2 utilizando SSH.
-- Crea un nuevo archivo Python llamado `client.py`.
-- Implementa el cliente en `client.py` según tus necesidades.
-
-### 4. Ejecución y Prueba
+### 3. Ejecución y Prueba
 
 #### Para el Servidor:
 
